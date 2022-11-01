@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://togetin.github.io</id>
+    <title>Tings Blog • Posts by &#34;二創類別&#34; category</title>
+    <link href="https://togetin.github.io" />
+    <updated>2022-10-30T09:43:47.000Z</updated>
+    <category term="夕陽" />
+    <category term="Hexo" />
+    <category term="教程" />
+    <category term="刀劍亂舞" />
+    <category term="怪物彈珠" />
+    <category term="寶可夢" />
+    <entry>
+        <id>https://togetin.github.io/2nd-create/%E4%BA%8C%E5%89%B5/</id>
+        <title>二創圖稿</title>
+        <link rel="alternate" href="https://togetin.github.io/2nd-create/%E4%BA%8C%E5%89%B5/"/>
+        <content type="html">&lt;p&gt;&lt;img data-src=&#34;6Xgh14A.png&#34; alt=&#34;6Xgh14A.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;%E6%8B%94%E4%B8%B8.png&#34; alt=&#34;拔丸.png&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="刀劍亂舞" />
+        <category term="怪物彈珠" />
+        <category term="寶可夢" />
+        <updated>2022-10-30T09:43:47.000Z</updated>
+    </entry>
+</feed>
